@@ -4,27 +4,293 @@ title: Calendar
 uid: ccb1da3c-7cf5-19a5-b9ae-d538288f5496
 ---
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introductory Remarks; Course Structure and Content  {{< br >}}  {{< br >}}Seminar Consisting of Three Talks for the International Meeting on Organic Geochemistry (IMOG) |  |
-| 2 | Acetogenic Lipids and their Fossil Counterparts; Chain-length, Branching Systematics and Isotopic Compositions - Indicators of Biological Sources; Algeanans; Functional Roles; Branched Alkanes with Quaternary Carbon Centers (BAQCs); Geological Patterns of Occurrence |  |
-| 3 | Seminar on Biomarkers and Earth's Redox History |  |
-| 4 | Isoprenoid Lipids; Biosynthesis; Isomerism and other Structural Aspects; Archaeal and Non-archaeal Sources; Structure vs. Physiology; Bicyclic and Tricyclic Isoprenoids; other Cyclised Polyprenoids; Geological Record | First term paper issued |
-| 5 | Seminar on Acyclic Isoprenoids |  |
-| 6 | Analytical Techniques for Biomarker Analysis |  |
-| 7 | Continued Lecture on Analytical Techniques |  |
-| 8 | Steroids; Biosynthetic Issues; Formation by Bacteria and Eukaryotes; Role of Oxygen  {{< br >}}  {{< br >}}Sterol to Sterane Diagenesis; Biomarkers for Source and Maturity in Fossil Organic Molecules (OM); Age-related Changes in Occurrence and Paleoenvironmental Indicators |  |
-| 9 | Seminar on Steroids |  |
-| 10 | Continuing Lecture on Steroids |  |
-| 11 | Seminar on Isotopic and Molecular Indicators for a Biogenic Origin of Organic Matter | Second term paper issued |
-| 12 | Mono-, Sesqui-, di- and Triterpenoids 1; Biosynthetic Issues; Bacteria and Eukaryotes; Bacteriohopanepolyols (BHP); Analytical Issues; Phylogeny and Physiology vs. Structure; BHP to Hopane Diagenesis; Biomarkers for Source, Maturity of OM |  |
-| 13 | Seminar on Triterpenoids |  |
-| 14 | Diterpenoids and Triterpenoids 2; Plant-derived Terpenoids; Biomarkers for an Evolving Ocean Plankton  {{< br >}}  {{< br >}}Biomarkers Diagnostic of Geological Age | First term paper due |
-| 15 | Pigment-derived Biomarkers; Porphyrins and Carotenoids |  |
-| 16 | Seminar on the Permian-Triassic Boundary Extinction |  |
-| 17 | Seminar on Pigment-derived Biomarkers |  |
-| 18 | Diagenesis and Catagenesis; OM Preservation; Kerogen Formation  {{< br >}}  {{< br >}}Role of Reduced Sulfur |  |
-| 19 | Petroleum Formation, Occurrence and Characterization |  |
-| 20 | Seminar on Neoproterozoic Glaciations |  |
-| 21 | Seminar on Atmospheric Oxygen Evolution, Paleo-ocean Chemistry, and Biomarkers |  |
-| 22 | Kerogen; Experimental Approaches to Classification and Structural Analysis; Rock Eval; Pyrolysis and Chemical Degradation | Second term paper due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introductory Remarks; Course Structure and Content  
+  
+Seminar Consisting of Three Talks for the International Meeting on Organic Geochemistry (IMOG)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Acetogenic Lipids and their Fossil Counterparts; Chain-length, Branching Systematics and Isotopic Compositions - Indicators of Biological Sources; Algeanans; Functional Roles; Branched Alkanes with Quaternary Carbon Centers (BAQCs); Geological Patterns of Occurrence
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Seminar on Biomarkers and Earth's Redox History
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Isoprenoid Lipids; Biosynthesis; Isomerism and other Structural Aspects; Archaeal and Non-archaeal Sources; Structure vs. Physiology; Bicyclic and Tricyclic Isoprenoids; other Cyclised Polyprenoids; Geological Record
+{{< tdclose >}}
+{{< tdopen >}}
+First term paper issued
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Seminar on Acyclic Isoprenoids
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Analytical Techniques for Biomarker Analysis
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Continued Lecture on Analytical Techniques
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Steroids; Biosynthetic Issues; Formation by Bacteria and Eukaryotes; Role of Oxygen  
+  
+Sterol to Sterane Diagenesis; Biomarkers for Source and Maturity in Fossil Organic Molecules (OM); Age-related Changes in Occurrence and Paleoenvironmental Indicators
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Seminar on Steroids
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Continuing Lecture on Steroids
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Seminar on Isotopic and Molecular Indicators for a Biogenic Origin of Organic Matter
+{{< tdclose >}}
+{{< tdopen >}}
+Second term paper issued
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Mono-, Sesqui-, di- and Triterpenoids 1; Biosynthetic Issues; Bacteria and Eukaryotes; Bacteriohopanepolyols (BHP); Analytical Issues; Phylogeny and Physiology vs. Structure; BHP to Hopane Diagenesis; Biomarkers for Source, Maturity of OM
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Seminar on Triterpenoids
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Diterpenoids and Triterpenoids 2; Plant-derived Terpenoids; Biomarkers for an Evolving Ocean Plankton  
+  
+Biomarkers Diagnostic of Geological Age
+{{< tdclose >}}
+{{< tdopen >}}
+First term paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Pigment-derived Biomarkers; Porphyrins and Carotenoids
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Seminar on the Permian-Triassic Boundary Extinction
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Seminar on Pigment-derived Biomarkers
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Diagenesis and Catagenesis; OM Preservation; Kerogen Formation  
+  
+Role of Reduced Sulfur
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Petroleum Formation, Occurrence and Characterization
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Seminar on Neoproterozoic Glaciations
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Seminar on Atmospheric Oxygen Evolution, Paleo-ocean Chemistry, and Biomarkers
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Kerogen; Experimental Approaches to Classification and Structural Analysis; Rock Eval; Pyrolysis and Chemical Degradation
+{{< tdclose >}}
+{{< tdopen >}}
+Second term paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
